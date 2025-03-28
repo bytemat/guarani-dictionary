@@ -1,6 +1,6 @@
 # Ñeekuaa 
 ### Ñeekuaa is an online Guaraní dictionary designed to help users learn and explore the language.
-Neekuaa Dictionary
+
 This website provides definitions, translations, and linguistic insights for Guaraní words. The platform is accessible at ñeekuaa.net.
 
 Features
